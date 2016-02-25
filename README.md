@@ -7,7 +7,9 @@ This is a simple passion project that I've started to learn about making basic s
 
 #How to try out current version:
 1. You must have the requests package [link: http://docs.python-requests.org/en/master/] and xml elementtree package [link: https://docs.python.org/2/library/xml.html] installed.
-2. Download the fr.py and run it by using $ python fr.py
+2. Download the fr.py
+3. You need to obtain a goodread api key, and place it in fr.py as key
+4. Run it by using $ python fr.py
 
 #Next Steps Currently:
 1. Flesh out goodreads search, to integrate books, authors, etc
